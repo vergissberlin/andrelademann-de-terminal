@@ -9,5 +9,6 @@ services:
       - 8088:8088
     environment:
       - NODE_ENV=production
+      - WEB_SHELL=/bin/bash
     expose:
       - 8088

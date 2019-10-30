@@ -1,7 +1,11 @@
 Data policy
 -----------
 
-In my logs I can see your requests. That's all!
+In my logs I can see your requestsand your entered 
+commandds are stored in a history file. That's all!
+
 The log files will be there for over one year.
 I do not use it for user analytics. 
 Just for debugging if there is a need for.
+
+You can see the history by typing "history".
