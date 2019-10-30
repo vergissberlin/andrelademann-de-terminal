@@ -1,0 +1,12 @@
+Hi dude!
+--------
+
+I am a it specialist like you located in Leipzig, Germany, Europe, earth, milky way.
+I love programming. I love to automate. I love the internet of things.
+However, I do not like regex, facebook and unempatic people.
+
+And if you ask me:
+- tabs over spaces
+- vim over emacs
+- Atom over Sublime
+- MacOS for ever!

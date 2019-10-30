@@ -1,0 +1,7 @@
+Data policy
+-----------
+
+In my logs I can see your requests. That's all!
+The log files will be there for over one year.
+I do not use it for user analytics. 
+Just for debugging if there is a need for.
