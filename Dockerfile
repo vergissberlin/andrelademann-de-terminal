@@ -12,9 +12,10 @@ COPY --chown=andre.lademann:andre.lademann ./home/ /home/andre.lademann
 WORKDIR /home/andre.lademann/app
 RUN npm ci
 ENV TERM=xterm
+EXPOSE 1337
 
 # go
 WORKDIR /home/andre.lademann
 RUN chmod -R 500 ./app *.txt
 RUN ls -lisah /home/andre.lademann/
-CMD ["/bin/bash/", "pm2-runtime", "app/index.js"]
+CMD ["pm2-runtime", "app/index.js"]

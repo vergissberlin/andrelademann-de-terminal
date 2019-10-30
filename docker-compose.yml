@@ -6,10 +6,8 @@ services:
     labels:
       com.centurylinklabs.watchtower.enable: true
     ports:
-      - 1337:1337
       - 8088:8088
     environment:
       - NODE_ENV=production
     expose:
-      - 1337
       - 8088
